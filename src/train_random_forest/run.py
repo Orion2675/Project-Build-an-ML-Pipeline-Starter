@@ -101,7 +101,6 @@ def go(args):
     mlflow.sklearn.save_model(
         sk_pipe,
         export_path, 
-        serialized_format=mlflow.sklearn.SERIALIZATION_FORMAT_PICKLE, 
         input_example = X_train.iloc[:5]
     )
     ######################################
