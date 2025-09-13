@@ -7,7 +7,7 @@ to be retrained with the same cadence, necessitating an end-to-end pipeline that
 In this project you will build such a pipeline.
 
 # Resources
-This page: [https://github.com/Orion2675/Udacity-NYC-AirBnB-Build-an-ML-Pipeline](https://github.com/Orion2675/Udacity-NYC-AirBnB-Build-an-ML-Pipeline)
+This page: [https://github.com/Orion2675/Udacity-NYC-AirBnB-Build-an-ML-Pipeline](https://github.com/Orion2675/Udacity-NYC-AirBnB-Build-an-ML-Pipeline)   
 Weights and Biases Project page: [https://wandb.ai/bryan-march/nyc_airbnb?nw=nwuserbmarch](https://wandb.ai/bryan-march/nyc_airbnb?nw=nwuserbmarch)
 
 
